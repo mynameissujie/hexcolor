@@ -1,6 +1,6 @@
 # description
 
-color from hex string to right color
+get color from hexstring
 
 ## Using
 
