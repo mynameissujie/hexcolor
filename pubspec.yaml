@@ -1,0 +1,13 @@
+name: test_for_git
+description: hexstring clor transform .
+version: 0.0.1
+author: jeffery
+homepage: https://github.com/mynameissujie/hexcolor.git
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+

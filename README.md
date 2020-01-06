@@ -1,6 +1,6 @@
 # test_for_git
 
-A new flutter module project.
+color from hex string to right color
 
 ## Getting Started
 
