@@ -1,8 +1,9 @@
-# test_for_git
+# description
 
 color from hex string to right color
 
-## Getting Started
+## Using
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.dev/).
+import 'package:hex_color/HexColor.dart';
+
+color: HexColor('ff6633')
